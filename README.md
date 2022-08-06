@@ -20,6 +20,7 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 Users should be able to:
 
 :white_check_mark: View the optimal layout for the site depending on their device's screen size
+
 :white_check_mark: See hover states for all interactive elements on the page
 
 ### Screenshot
